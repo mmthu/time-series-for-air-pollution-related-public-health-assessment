@@ -1,2 +1,3 @@
 This subranch presents some basic research work using TCN(Temporal Convolutional Network) to assess the impacts of air pollutants exposure on public health. Different from the LSTM model presented in the other branch, the purpose of using TCN model is to capture the longer-term impacts of air pollution exposure on public health. Some basic results are presented to show its great potential in capturing the longer-term impacts. Note that as the parameters of TCN are randomly selected and are not finely tuned, its performance demonstrated in the test example is not as excellent as expected. 
 
+<img width="1715" height="1298" alt="prediction_real1" src="https://github.com/user-attachments/assets/1a7167be-6f14-4500-b3c9-d6d01fde9488" />
