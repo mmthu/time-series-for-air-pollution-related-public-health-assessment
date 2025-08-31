@@ -1,6 +1,6 @@
 This report presents some preliminary research work using LSTM neural networks to assess the impacts of air pollutants exposure on public health.
 
-1. 
+1. 000
 Mutual Information (MI)-based Maximal Information Coeffi cient (MIC) is used to evaluate the association between diff erent air pollutants and fi nd the most related factors for health consequence of interest, taking advantage of information entropy to capture both the linear and nonlinear relation.
 
  Daily mean values of temperature and air pollutants concentration and daily mortality for Chicago, IL, the U.S.
