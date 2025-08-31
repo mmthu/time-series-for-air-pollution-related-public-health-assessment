@@ -5,8 +5,10 @@ Mutual Information (MI)-based Maximal Information Coeffi cient (MIC) is used to 
 
  Daily mean values of temperature and air pollutants concentration and daily mortality for Chicago, IL, the U.S. from 1987 to 2000.
 <img width="574" height="530" alt="2 2" src="https://github.com/user-attachments/assets/fdd78ca5-32fd-4222-ab5e-cde8ba0a040b" />
+
  Relations of diff erent air pollutants for Toronto, ON, Canada.
 <img width="571" height="490" alt="2 3" src="https://github.com/user-attachments/assets/326ceef5-f501-43fd-a965-d03d0b7268ad" />
+
  MICs between air pollutants and daily mortality from diff erent causes for Chicago, IL, the U.S. 
 <img width="532" height="724" alt="t2 1" src="https://github.com/user-attachments/assets/fe74bfaf-c95d-4373-ab3f-ee049ae81236" />
 
